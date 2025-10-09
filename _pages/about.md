@@ -13,4 +13,4 @@ I was honored with **the National Scholarship (2021–2022)** in recognition of 
 
 Publication
 ======
-[Zhixia Li, Jingdong Han.” Neural stem cells in aging.” Translational Medicine of Aging. 2024/12/06](https://doi.org/10.1016/j.tma.2024.12.003)
+[Zhixia Li, Jingdong Han.” Neural stem cells in aging.” *Translational Medicine of Aging*. 2024/12/06](https://doi.org/10.1016/j.tma.2024.12.003)
