@@ -14,7 +14,7 @@ I am fortunate to be advised by [Prof. Xia Pengyan](https://sbms.bjmu.edu.cn/jsd
 
 You can find my CV here: [Resume202510](../assets/Resume202510.pdf).
 
-[Email](2110305306@stu.pku.edu.cn) 
+[Email](2110305306@stu.pku.edu.cn) / [Wechat](../images/LZX_wechat.jpg)
 
 Publication
 ======
