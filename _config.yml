@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "LZX_profile.png"
   name             : "Li Zhixia(李之夏)"
   pronouns         : # example: "she/her"  
   bio              : "a fifth-year student in 8-year integrated undergraduate-PhD program in Basic Medicine"
