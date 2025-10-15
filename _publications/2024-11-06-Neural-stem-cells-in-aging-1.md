@@ -7,6 +7,7 @@ excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'Translational Medicine of Aging'
 paperurl: 'http://lizhixia923-oss.github.io/files/Neural stem cells in aging.pdf'
+bibtexurl: 'http://lizhixia923-oss.github.io/files/Neural stem cells in aging.bib'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
