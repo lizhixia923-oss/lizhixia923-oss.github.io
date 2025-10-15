@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "Neural stem cells in aging"
 collection: publications
 category: conferences
 permalink: /publication/2024-11-06-Neural-stem-cells-in-aging-1
