@@ -2,7 +2,7 @@
 title: "Neural stem cells in aging"
 collection: publications
 category: manscripts
-permalink: /publication/2024-11-06-Neural stem cells in aging
+permalink: /publication/2024-11-06-Neural-stem-cells-in-aging
 excerpt: 'This review examines how aging disrupts neural stem cell function, leading to cognitive decline and highlighting their therapeutic potential.'
 date: 2024-11-06
 venue: 'Translational Medicine of Aging'
