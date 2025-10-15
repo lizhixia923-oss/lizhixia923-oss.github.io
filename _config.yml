@@ -23,7 +23,7 @@ repository               : "lizhixia923-oss/lizhixia923-oss.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "/images/for_profile.png"
   name             : "Li Zhixia(李之夏)"
   pronouns         : # example: "she/her"  
   bio              : "a fifth-year student in 8-year integrated undergraduate-PhD program in Basic Medicine"
