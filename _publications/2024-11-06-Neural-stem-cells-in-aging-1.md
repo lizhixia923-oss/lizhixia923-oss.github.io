@@ -3,7 +3,7 @@ title: "Neural stem cells in aging"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-11-06-Neural-stem-cells-in-aging-1
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This review examines how aging disrupts neural stem cell function, leading to cognitive decline and highlighting their therapeutic potential.'
 date: 2024-02-17
 venue: 'Translational Medicine of Aging'
 paperurl: 'http://lizhixia923-oss.github.io/files/Neural stem cells in aging.pdf'
