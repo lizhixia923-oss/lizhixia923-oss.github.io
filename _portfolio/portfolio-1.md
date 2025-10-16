@@ -1,6 +1,6 @@
 ---
 title: "NSCs undergo metabolic and functional changes in the aged brain."
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/neural_stem_cell_1.png'>"
+excerpt: "Aging impairs hippocampal NSC metabolism, mitochondria, chromatin, and differentiation, causing cognitive and emotional decline.<br/><img src='/images/neural_stem_cell_1.png'>"
 collection: portfolio
 ---
 
